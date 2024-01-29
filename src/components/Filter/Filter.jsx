@@ -1,5 +1,5 @@
 import React from 'react';
-import './contactForm.css'
+import '../ContactForm/contactForm.css'
 
 const Filter = ({ value, onChange }) => (
   <label>
